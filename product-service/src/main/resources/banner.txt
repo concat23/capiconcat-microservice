@@ -8,3 +8,7 @@ Powered by Spring Boot ${spring-boot.version}
 
 
 https://devops.datenkollektiv.de/banner.txt/index.html
+
+https://testcontainers.com
+
+https://java.testcontainers.org/#maven-dependencies
