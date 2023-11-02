@@ -15,7 +15,7 @@ services:
   capiconcat_app:
     depends_on:
       - capiconcat_db
-    build: ./
+    build: .
     restart: on-failure
     env_file: ./.env
     ports:
