@@ -21,3 +21,5 @@ application:
 
 server:
   port: 8069
+  servlet:
+    context-path: "/document/v1"

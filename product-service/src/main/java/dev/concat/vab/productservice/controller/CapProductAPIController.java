@@ -11,7 +11,7 @@ import java.util.List;
 
 @RequiredArgsConstructor
 @RestController
-@RequestMapping(path = "/v1/api/product")
+@RequestMapping( "/api/product")
 public class CapProductAPIController {
 
     private final CapProductService capProductService;
